@@ -11,6 +11,6 @@ What these files can be used for:
 The original experimental data was obtained using Volocity, v.6 (Perkin Elmer).
 
 Please refer to this paper for further background on the files:
-not available yet
+http://pubs.acs.org/doi/abs/10.1021/nn403069n
 
 
